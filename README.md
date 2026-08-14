@@ -8,7 +8,7 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 
 ## Identificação
 
-- Nome completo:
-- RA:
-- Turma: (quarta ou quinta)
-- O que espero aprender:
+- Nome completo: Guilherme Kalleu Gonçalves da Rocha
+- RA:926112100
+- Turma: Quinta
+- O que espero aprender: CSS avançado e banco de dados.

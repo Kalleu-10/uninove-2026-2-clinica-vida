@@ -1,5 +1,7 @@
 ## O caminho de uma requisição
 
+## O caminho de uma requisição
+
 ```mermaid
 sequenceDiagram
     participant N as Navegador do paciente
@@ -11,17 +13,16 @@ sequenceDiagram
     N->>S: GET /consultas/agendar
     S-->>N: 200 OK, HTML da agenda
 ```
-Server:         127.0.0.53
-Address:        127.0.0.53#53
+Plaintext
+Server:		127.0.0.53
+Address:	127.0.0.53#53
 
 Non-authoritative answer:
-Name:   github.com
-Address: 140.82.114.3
+Name:	github.com
+Address: 189.126.108.15
 
+Método,Recurso,Código de Status,Tipo
 GET,markdown.css,200,stylesheet
-
 GET,katex.min.css,200,stylesheet
-
 GET,index.js,200,script
-
-GET,fake.html,200,document
+GET,cuzinho,404,document

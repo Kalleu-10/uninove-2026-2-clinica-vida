@@ -31,4 +31,4 @@ Address: 189.126.108.15
 
 
 Existe a necessidade do HTTPS para garantia de maior segurança, os usuários poderão se cadastrar e colocar seus dados como CPF, dados bancários, cartões, telefone e etc. 
-O sistema de segurança previne que isso não vaze para terceiros. Seguindo a Lei Geral de Proteção de Dados (LGPD) garante 
+O sistema de segurança previne que isso não vaze para terceiros seguindo a Lei Geral de Proteção de Dados (LGPD).

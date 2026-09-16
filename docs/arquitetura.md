@@ -22,4 +22,4 @@ Método,Recurso,Código de Status,Tipo
 GET,markdown.css,200,stylesheet
 GET,katex.min.css,200,stylesheet
 GET,index.js,200,script
-GET,cuzinho,404,document
+GET,aaaba,404,document

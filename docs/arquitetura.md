@@ -16,11 +16,9 @@ sequenceDiagram
 Plaintext
 Server:		127.0.0.53
 Address:	127.0.0.53#53
-
 Non-authoritative answer:
 Name:	github.com
 Address: 189.126.108.15
-
 Método,Recurso,Código de Status,Tipo
 GET,markdown.css,200,stylesheet
 GET,katex.min.css,200,stylesheet

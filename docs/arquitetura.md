@@ -2,14 +2,14 @@
 ```mermaid
 
 sequenceDiagram
-    participant N as Navegador
-    participant D as DNS
-    participant S as Servidor
-    N->>D: IP de clinicavidamais.com.br?
-    D-->>N: 203.0.113.42
-    N->>S: TCP/TLS (Porta 443)
-    N->>S: GET /consultas/agendar
-    S-->>N: 200 OK (HTML)
+participant N as Navegador
+participant D as DNS
+participant S as Servidor
+N->>D: IP de clinicavidamais.com.br?
+D-->>N: 203.0.113.42
+N->>S: TCP/TLS (Porta 443)
+N->>S: GET /consultas/agendar
+S-->>N: 200 OK (HTML)
 
 ```
 

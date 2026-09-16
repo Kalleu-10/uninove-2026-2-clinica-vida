@@ -18,8 +18,9 @@ Non-authoritative answer:
 Name:	github.com
 Address: 189.126.108.15
 
-Método,Recurso,Código de Status,Tipo
-GET,markdown.css,200,stylesheet
-GET,katex.min.css,200,stylesheet
-GET,index.js,200,script
-GET,aaaba,404,document
+| Método | Recurso | Código de Status | Tipo |
+| :--- | :--- | :--- | :--- |
+| GET | `markdown.css` | 200 | stylesheet |
+| GET | `katex.min.css` | 200 | stylesheet |
+| GET | `index.js` | 200 | script |
+| GET | `aaaba` | 404 | document |

@@ -10,3 +10,18 @@ sequenceDiagram
     N->>S: conexão TCP e TLS na porta 443
     N->>S: GET /consultas/agendar
     S-->>N: 200 OK, HTML da agenda
+```
+Server:         127.0.0.53
+Address:        127.0.0.53#53
+
+Non-authoritative answer:
+Name:   github.com
+Address: 140.82.114.3
+
+GET,markdown.css,200,stylesheet
+
+GET,katex.min.css,200,stylesheet
+
+GET,index.js,200,script
+
+GET,fake.html,200,document
